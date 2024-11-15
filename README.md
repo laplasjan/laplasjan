@@ -16,6 +16,15 @@
 
 ✨ **Let’s Collaborate**: I’m open to collaborations in AI research, data-driven projects, and innovative tech ventures. Together, let’s build something impactful!
 
+## 📊 GitHub Stats
+
+![Joanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laplasjan&show_icons=true&theme=radical)
+
+## 🚀 Top Langs
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laplasjan&layout=compact&theme=radical)
+
+
 📫 **Reach Out**:  
 - ✉️ Email: [jmichalska17@gmail.com](mailto:jmichalska17@gmail.com)  
 - 🌐 GitHub: [github.com/laplasjan](https://github.com/laplasjan)  
